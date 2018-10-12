@@ -1,0 +1,15 @@
+{
+  "name": "timeline",
+  "version": "1.0.0",
+  "description": "timeline for learning our softrware \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[C\u001b[C\u001b[C\u001bware stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "markdown-it Timeline-for-learning.md -o Timeline-for-learning.html"
+  },
+  "author": "Martin A. Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^8.4.2"
+  }
+}
